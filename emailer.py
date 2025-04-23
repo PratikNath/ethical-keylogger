@@ -7,9 +7,9 @@ from email import encoders
 from mimetypes import guess_type
 
 # Your credentials
-EMAIL_ADDRESS = "Itsmepratz77@gmail.com"
-EMAIL_PASSWORD = "yiwl pgvr tbcz yflp"
-RECIPIENT = "pratiknath77@gmail.com"
+EMAIL_ADDRESS = "your_email@gmail.com"
+EMAIL_PASSWORD = "your_app_password"
+RECIPIENT = "recipient_email@gmail.com"
 
 def send_email(file_paths):
     print("📤 Preparing to send email...")
