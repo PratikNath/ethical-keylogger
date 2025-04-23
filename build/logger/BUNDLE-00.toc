@@ -1,0 +1,3 @@
+([('logger',
+   '/Users/napster/Downloads/keylogger_final_project/dist/logger',
+   'EXECUTABLE')],)

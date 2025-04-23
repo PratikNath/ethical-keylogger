@@ -1,0 +1,6 @@
+pynput
+pillow
+psutil
+sounddevice
+scipy
+requests
